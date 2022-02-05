@@ -34,21 +34,127 @@ Grading
 
 The lowest homework score will be dropped.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem Sets | 70% |
-| Oral Presentation | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+70%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Topics
 ------
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1–2 | Acoustic, Elastic, Electromagnetic Wave Equations |
-| 3 | Scattering Series and Inversion |
-| 4–5 | Migration and Backprojection: Adjoint-state Methods |
-| 6–7 | Radar Imaging, Filtered Backprojection, Ambiguity and Resolution |
-| 8 | Computerized Tomography, Radon Transform |
-| 9–11 | Seismic Imaging, Geometrical Optics, Generalized Radon Transform |
-| 12–13 | Optimization, Regularization, Velocity Estimation, Autofocus |
-| 14 | Student Presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–2
+{{< tdclose >}}
+{{< tdopen >}}
+Acoustic, Elastic, Electromagnetic Wave Equations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Scattering Series and Inversion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4–5
+{{< tdclose >}}
+{{< tdopen >}}
+Migration and Backprojection: Adjoint-state Methods
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6–7
+{{< tdclose >}}
+{{< tdopen >}}
+Radar Imaging, Filtered Backprojection, Ambiguity and Resolution
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Computerized Tomography, Radon Transform
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9–11
+{{< tdclose >}}
+{{< tdopen >}}
+Seismic Imaging, Geometrical Optics, Generalized Radon Transform
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12–13
+{{< tdclose >}}
+{{< tdopen >}}
+Optimization, Regularization, Velocity Estimation, Autofocus
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
