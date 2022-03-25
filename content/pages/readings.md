@@ -32,7 +32,7 @@ John, Fritz. _Partial Differential Equations_. Springer, 2013. ISBN: 97814684933
 
 Whitham, Gerald Beresford. _Linear and Nonlinear Waves_. Wiley-Interscience, 1999. ISBN: 9780471359425.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Notes on the Algebraic Structure of Wave Equations" (PDF)](http://math.mit.edu/~stevenj/18.369/wave-equations.pdf) by Steven Johnson.
+["Notes on the Algebraic Structure of Wave Equations" (PDF)](http://math.mit.edu/~stevenj/18.369/wave-equations.pdf) by Steven Johnson.
 
 For Geometrical Optics, I like "[Lectures on Geometrical Optics](http://www.math.lsa.umich.edu/~rauch/courses.html)" by Professor Jeffrey Rauch.
 
